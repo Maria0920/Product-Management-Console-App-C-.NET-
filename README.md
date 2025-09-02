@@ -57,12 +57,12 @@ This application was built as part of a programming assignment focused on:
 Please enter an integer which is in the range of 1 and 30 >>
 
 📖 Categories
-a- → Apparel
-b- → Books
-f- → Foods
-t- → Toys
-o- → Others
+- a- → Apparel
+- b- → Books
+- f- → Foods
+- t- → Toys
+- o- → Others
 
 ⚠️ Notes
-Some advanced features (e.g. persistence, database storage) are not included as this is a console-based assignment project.
-Invalid product IDs are reassigned to the Others category automatically.
+- Some advanced features (e.g. persistence, database storage) are not included as this is a console-based assignment project.
+- Invalid product IDs are reassigned to the Others category automatically.
